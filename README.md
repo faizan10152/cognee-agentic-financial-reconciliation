@@ -190,7 +190,3 @@ Output is saved to `reconciliation_report.txt`.
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** — Agent orchestration
 - **[Claude Haiku](https://docs.anthropic.com/en/docs/about-claude/models)** — LLM for agent reasoning
 - **[Fastembed](https://github.com/qdrant/fastembed)** — Local embeddings (no API key needed)
-
-## License
-
-MIT
