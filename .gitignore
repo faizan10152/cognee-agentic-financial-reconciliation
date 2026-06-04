@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# Cognee persistent storage (rebuild with: python build_graph.py)
+cognee_data/
+
+# Generated outputs
+reconciliation_report.txt
+
+# System files
+.DS_Store
+.cognee/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
