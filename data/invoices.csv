@@ -1,0 +1,51 @@
+invoice_id,item_type,invoice_type,invoice_date,invoice_due_date,invoice_amount_gross,invoice_amount_net,invoice_amount_tax,invoice_currency,invoice_external_reference,counterparty_name,counterparty_id,item_status,erp_amount_paid,erp_payment_date,reconciliation_state
+INV-001,o2c,ar,2025-12-15,2026-01-05,4250.00,3571.43,678.57,EUR,RE-2026-0001,Bergmann Verpackungen GmbH,C1001,completed,4250.00,2026-01-05,erp_only
+INV-002,o2c,ar,2025-12-20,2026-01-07,1890.50,1588.66,301.84,EUR,RE-2026-0002,Nordland Papier AG,C1003,completed,1890.50,2026-01-07,erp_only
+INV-003,o2c,ar,2025-12-15,2026-01-08,7612.80,7612.80,0.00,EUR,RE-2026-0003,Kastner Wellpappe GmbH,C1004,completed,7612.80,2026-01-08,erp_only
+INV-004,o2c,ar,2025-12-18,2026-01-09,2340.00,2340.00,0.00,EUR,RE-2026-0004,Europrint Solutions B.V.,C1005,completed,2340.00,2026-01-09,erp_only
+INV-005,o2c,ar,2025-12-20,2026-01-15,3800.00,3193.28,606.72,EUR,RE-2026-0005,Müller Display GmbH & Co. KG,C1010,completed,3724.00,2026-01-06,erp_only
+INV-006,o2c,ar,2025-12-22,2026-01-15,12500.00,12500.00,0.00,EUR,RE-2026-0006,Helvetia Packaging AG,C1008,completed,12250.00,2026-01-10,erp_only
+INV-007,o2c,ar,2025-12-22,2026-01-15,7000.00,5882.35,1117.65,EUR,RE-2026-0007,Bergmann Verpackungen GmbH,C1001,completed,6860.00,2026-01-12,erp_only
+INV-008,o2c,ar,2025-12-22,2026-01-15,3150.00,2647.06,502.94,EUR,RE-2026-0008,Bergmann Verpackungen GmbH,C1001,completed,3150.00,2026-01-13,erp_only
+INV-009,o2c,ar,2025-12-22,2026-01-15,4200.00,3529.41,670.59,EUR,RE-2026-0009,Bergmann Verpackungen GmbH,C1001,completed,4200.00,2026-01-13,erp_only
+INV-010,o2c,ar,2025-12-28,2026-01-15,5200.00,4369.75,830.25,EUR,RE-2026-0010,Druckhaus Weber GmbH,C1009,completed,5200.00,2026-01-15,erp_only
+INV-011,o2c,ar,2025-12-30,2026-01-20,3175.40,3175.40,0.00,EUR,RE-2026-0012,Scandinavia Pack AB,C1011,completed,3175.40,2026-01-20,erp_only
+INV-012,o2c,ar,2026-01-05,2026-01-22,3000.00,2521.01,478.99,EUR,RE-2026-0013,Nordland Papier AG,C1003,completed,2940.00,2026-01-22,erp_only
+INV-013,o2c,ar,2025-12-22,2026-01-15,2100.00,1764.71,335.29,EUR,RE-2026-0014,Bergmann Verpackungen GmbH,C1001,completed,2100.00,2026-01-13,erp_only
+INV-014,o2c,ar,2026-01-02,2026-01-20,3200.00,3200.00,0.00,EUR,RE-2026-0015,Fábrica Cartón S.A.,C1006,completed,3200.00,2026-01-14,erp_only
+INV-015,o2c,ar,2026-01-02,2026-01-20,3520.50,3520.50,0.00,EUR,RE-2026-0016,Fábrica Cartón S.A.,C1006,completed,3520.50,2026-01-14,erp_only
+INV-016,o2c,ar,2026-01-03,2026-01-20,1500.00,1500.00,0.00,EUR,RE-2026-0017,Polskie Opakowania Sp. z o.o.,C1007,completed,1500.00,2026-01-16,erp_only
+INV-017,o2c,ar,2026-01-03,2026-01-20,2100.00,2100.00,0.00,EUR,RE-2026-0018,Polskie Opakowania Sp. z o.o.,C1007,completed,2100.00,2026-01-16,erp_only
+INV-018,o2c,ar,2026-01-03,2026-01-20,1290.00,1290.00,0.00,EUR,RE-2026-0019,Polskie Opakowania Sp. z o.o.,C1007,completed,1290.00,2026-01-16,erp_only
+INV-019,o2c,ar,2026-01-05,2026-01-20,2800.00,2800.00,0.00,EUR,RE-2026-0020,Kastner Wellpappe GmbH,C1004,completed,2800.00,2026-01-19,erp_only
+INV-020,o2c,ar,2026-01-05,2026-01-20,3140.20,3140.20,0.00,EUR,RE-2026-0021,Kastner Wellpappe GmbH,C1004,completed,3140.20,2026-01-19,erp_only
+INV-021,o2c,ar,2026-01-05,2026-01-20,2400.00,2400.00,0.00,EUR,RE-2026-0022,Kastner Wellpappe GmbH,C1004,completed,2400.00,2026-01-19,erp_only
+INV-022,o2c,ar,2026-01-05,2026-01-20,3270.00,3270.00,0.00,EUR,RE-2026-0023,Europrint Solutions B.V.,C1005,completed,3270.00,2026-01-17,erp_only
+INV-023,o2c,ar,2026-01-05,2026-01-20,2400.00,2400.00,0.00,EUR,RE-2026-0024,Europrint Solutions B.V.,C1005,completed,2400.00,2026-01-17,erp_only
+INV-024,o2c,ar,2026-01-08,2026-01-25,3200.00,3200.00,0.00,EUR,RE-2026-0025,Polskie Opakowania Sp. z o.o.,C1007,completed,3200.00,2026-01-21,erp_only
+INV-025,o2c,ar,2026-01-10,2026-01-25,2450.00,2058.82,391.18,EUR,RE-2026-0026,Müller Display GmbH & Co. KG,C1010,completed,2450.00,2026-01-24,erp_only
+INV-026,o2c,ar,2026-01-10,2026-01-25,1890.00,1890.00,0.00,EUR,RE-2026-0027,Fábrica Cartón S.A.,C1006,completed,1890.00,2026-01-25,erp_only
+INV-027,o2c,ar,2026-01-02,2026-01-20,6000.00,5042.02,957.98,EUR,RE-2026-0028,Müller Display GmbH & Co. KG,C1010,open,3000.00,2026-01-14,erp_only
+INV-028,o2c,ar,2026-01-05,2026-01-25,9000.00,9000.00,0.00,EUR,RE-2026-0029,Helvetia Packaging AG,C1008,open,4500.00,2026-01-18,erp_only
+INV-029,o2c,ar,2026-01-12,2026-01-30,5250.00,4411.76,838.24,EUR,RE-2026-0030,Nordland Papier AG,C1003,open,2100.00,2026-01-29,erp_only
+INV-030,o2c,ar,2025-12-22,2026-01-15,3600.00,3025.21,574.79,EUR,RE-2026-0031,Bergmann Verpackungen GmbH,C1001,completed,3600.00,2026-01-15,erp_only
+INV-031,o2c,ar,2025-11-15,2025-12-15,2780.00,2780.00,0.00,EUR,RE-2026-0033,Polskie Opakowania Sp. z o.o.,C1007,overdue,0.00,,erp_only
+INV-032,o2c,ar,2025-12-20,2026-01-10,4100.00,3445.38,654.62,EUR,RE-2026-0034,Druckhaus Weber GmbH,C1009,completed,4100.00,2026-01-12,erp_only
+INV-033,o2c,ar,2025-12-28,2026-01-15,2850.00,2850.00,0.00,EUR,RE-2026-0035,Scandinavia Pack AB,C1011,completed,2850.00,2026-01-18,erp_only
+INV-034,o2c,ar,2026-01-10,2026-01-25,4250.00,4250.00,0.00,EUR,RE-2026-0036,Fábrica Cartón S.A.,C1006,open,0.00,,erp_only
+INV-035,o2c,ar,2026-01-08,2026-01-22,4780.00,4780.00,0.00,EUR,RE-2026-0032,Kastner Wellpappe GmbH,C1004,completed,4780.00,2026-01-19,erp_only
+INV-036,p2p,ap,2025-12-20,2026-01-10,3450.00,2899.16,550.84,EUR,SI-240015,Stahl & Metall Handel GmbH,S2002,completed,3450.00,2026-01-05,erp_only
+INV-037,p2p,ap,2025-12-22,2026-01-10,892.40,749.92,142.48,EUR,SI-240018,Technoglas Industriebedarf GmbH,S2003,completed,892.40,2026-01-08,erp_only
+INV-038,p2p,ap,2025-12-28,2026-01-15,156.78,131.75,25.03,EUR,SI-240020,Büroservice Krause GmbH,S2004,completed,156.78,2026-01-10,erp_only
+INV-039,p2p,ap,2025-12-30,2026-01-20,4280.00,3596.64,683.36,EUR,SX-780234,Schmid Werkzeugbau GmbH,S2008,completed,4280.00,2026-01-15,erp_only
+INV-040,p2p,ap,2025-12-28,2026-01-15,2800.00,2352.94,447.06,EUR,SI-240022,Logistik Express GmbH,S2007,completed,2744.00,2026-01-12,erp_only
+INV-041,p2p,ap,2026-01-05,2026-01-25,5900.00,4957.98,942.02,EUR,SI-240025,Stahl & Metall Handel GmbH,S2002,completed,5782.00,2026-01-20,erp_only
+INV-042,p2p,ap,2025-12-01,2026-01-02,415.20,348.91,66.29,EUR,LS-0198-01438,Rheinland Leasing GmbH & Co. KG,S2001,completed,415.20,2026-01-02,erp_only
+INV-043,p2p,ap,2025-12-01,2026-01-02,415.20,348.91,66.29,EUR,LS-0198-01439,Rheinland Leasing GmbH & Co. KG,S2001,completed,415.20,2026-01-02,erp_only
+INV-044,p2p,ap,2025-12-01,2026-01-02,415.20,348.91,66.29,EUR,LS-0198-01440,Rheinland Leasing GmbH & Co. KG,S2001,completed,415.20,2026-01-02,erp_only
+INV-045,p2p,ap,2025-12-15,2026-01-05,1630.00,1369.75,260.25,EUR,SI-240028,Energie Südwest AG,S2005,completed,1630.00,2026-01-03,erp_only
+INV-046,p2p,ap,2025-12-15,2026-02-05,1630.00,1369.75,260.25,EUR,SI-240029,Energie Südwest AG,S2005,completed,1630.00,2026-01-03,erp_only
+INV-047,p2p,ap,2025-12-15,2026-03-05,1630.00,1369.75,260.25,EUR,SI-240033,Energie Südwest AG,S2005,completed,1630.00,2026-01-03,erp_only
+INV-048,p2p,ap,2026-01-10,2026-01-25,1350.00,1134.45,215.55,EUR,SI-240030,Logistik Express GmbH,S2007,completed,1350.00,2026-01-22,erp_only
+INV-049,p2p,ap,2026-01-12,2026-01-28,2156.80,1812.44,344.36,EUR,SI-240032,Technoglas Industriebedarf GmbH,S2003,completed,2156.80,2026-01-25,erp_only
+INV-050,p2p,ap,2026-01-15,2026-01-30,7230.00,6075.63,1154.37,EUR,SI-240035,Stahl & Metall Handel GmbH,S2002,completed,7230.00,2026-01-29,erp_only
