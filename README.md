@@ -1,6 +1,6 @@
 # Agentic Financial Reconciliation
 
-> **[Read the full use case report (PDF)](./Cognee-finance-use-case.pdf)** — a detailed walkthrough of how Cognee's can be essential to solves agentic financial workflows unified memory porblem, including a demo, results, and lessons learned.
+> **[Read the full use case report (PDF)](./Cognee-finance-use-case.pdf)** — a detailed walkthrough of how Cognee can be essential to solves agentic financial workflows unified memory porblem, including a demo, results, and lessons learned.
 
 An AI-powered financial reconciliation system that uses **Cognee** as a shared knowledge graph memory layer for LLM agents orchestrated by **LangGraph**.
 
