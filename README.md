@@ -1,5 +1,7 @@
 # Agentic Financial Reconciliation
 
+> **[Read the full use case report (PDF)](./Cognee-finance-use-case.pdf)** — a detailed walkthrough of how Cognee's knowledge graph solves financial reconciliation, including architecture, results, and lessons learned.
+
 An AI-powered financial reconciliation system that uses **Cognee** as a shared knowledge graph memory layer for LLM agents orchestrated by **LangGraph**.
 
 The system ingests bank transactions and invoices into a Cognee knowledge graph, then deploys three LLM agents that query the graph to match transactions, detect anomalies, and generate reports.
